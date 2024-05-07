@@ -15,6 +15,9 @@ const config: Config = {
       maxWidth: {
         app: '700px',
       },
+      gridTemplateColumns: {
+        app: 'minmax(18rem, 20rem) 1fr',
+      },
     },
   },
   plugins: [],
